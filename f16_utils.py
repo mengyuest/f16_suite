@@ -381,9 +381,6 @@ class LowLevelController(Freezable):
         return [Nz - u_ref[0], ps - u_ref[1], Ny_r - u_ref[2]]
 
 
-
-
-
 #TODO highlevel/autopilot.py
 '''
 Stanley Bak

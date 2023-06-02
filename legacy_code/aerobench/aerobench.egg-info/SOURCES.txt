@@ -1,5 +1,0 @@
-setup.py
-aerobench.egg-info/PKG-INFO
-aerobench.egg-info/SOURCES.txt
-aerobench.egg-info/dependency_links.txt
-aerobench.egg-info/top_level.txt
